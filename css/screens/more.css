@@ -1,0 +1,82 @@
+.more-screen {
+  padding: 25px 25px;
+}
+
+.user-components_subtitle {
+  position: relative;
+}
+
+.user-components_subtitle i {
+  color: rgb(231, 133, 133);
+  border: 1px solid rgb(231, 133, 133);
+  width: 14px;
+  height: 14px;
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: -25px;
+  top: 0px;
+}
+
+.more-icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 40px;
+  font-size: 15px;
+}
+
+.more-icons2 {
+  width: 195px;
+}
+
+.more-icons_icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.more-icons_icon i {
+  font-size: 25px;
+}
+
+.more-icons_icon span {
+  margin-top: 15px;
+}
+
+.more-suggestions {
+  margin-top: 35px;
+  padding-top: 35px;
+  border-top: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.more-suggestions_title {
+  font-weight: 600;
+  margin-bottom: 30px;
+  display: flex;
+}
+
+.more-suggestions_icons {
+  display: flex;
+  align-items: center;
+}
+
+.more-suggestions_icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 30px;
+}
+
+.more-suggestions_icon img {
+  width: 55px;
+  height: 55px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.more-suggestions_icon span {
+  color: rgba(0, 0, 0, 0.5);
+}

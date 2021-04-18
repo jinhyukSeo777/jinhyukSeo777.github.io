@@ -1,0 +1,13 @@
+.chats-screen {
+  margin: 20px 20px;
+}
+
+.badge-position {
+  position: absolute;
+  left: 20px;
+}
+
+.time-position {
+  display: flex;
+  margin-bottom: 5px;
+}

@@ -1,0 +1,25 @@
+.settings-screen {
+  margin: 25px 25px;
+}
+
+.settings-setting {
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.settings-setting i {
+  margin-right: 20px;
+}
+
+.first-settings {
+  padding-bottom: 15px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.settings-setting_column2 {
+  opacity: 0.5;
+}
